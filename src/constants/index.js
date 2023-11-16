@@ -61,7 +61,7 @@ export const skills = [
         imageUrl: nodejs,
         name: "Node.js",
         type: "Backend",
-    }
+    }, 
 ];
 
 export const experiences = [
