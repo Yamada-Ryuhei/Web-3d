@@ -18,11 +18,11 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          Worked with many companies <br /> and picked up many skills along the way
+          Ini adalah Portofolio V2<br /> Dan Ini adalah V1
         </p>
 
-        <Link to='/about' className='neo-brutalism-white neo-btn'>
-          Learn more
+        <Link to='https://yutaa.xcodehoster.com' className='neo-brutalism-white neo-btn'>
+          Kunjungi Situs
           <img src={arrow} alt='arrow' className='w-4 h-4 object-contain' />
         </Link>
       </div>
