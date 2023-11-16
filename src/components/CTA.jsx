@@ -4,11 +4,11 @@ const CTA = () => {
   return (
     <section className='cta'>
       <p className='cta-text'>
-        Have a project in mind? <br className='sm:block hidden' />
-        Let’s build something together!
+        Anda Pusing Dengan project? <br className='sm:block hidden' />
+        Saya juga sama 
       </p>
-      <Link to='/contact' className='btn'>
-        Contact
+      <Link to='https://instagram.com/sptnnhdnta' className='btn'>
+        Instagram
       </Link>
     </section>
   );
