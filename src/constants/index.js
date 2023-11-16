@@ -3,22 +3,13 @@ import {
     car,
     contact,
     css,
-    estate,
-    express,
     git,
     github,
     html,
     javascript,
-    linkedin,
+    Instagram,
     mongodb,
-    motion,
-    mui,
-    nextjs,
     nodejs,
-    pricewise,
-    react,
-    redux,
-    sass,
     snapgram,
     summiz,
     tailwindcss,
@@ -48,11 +39,6 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: javascript,
-        name: "JavaScript",
-        type: "Frontend",
-    },
-    {
         imageUrl: mongodb,
         name: "MongoDB",
         type: "Database",
@@ -61,25 +47,8 @@ export const skills = [
         imageUrl: nodejs,
         name: "Node.js",
         type: "Backend",
-    }, 
+    }
 ];
-
-export const experiences = [
-    {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
-        iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-];
-
 export const socialLinks = [
     {
         name: 'Contact',
@@ -92,18 +61,18 @@ export const socialLinks = [
         link: 'https://github.com/Yamada-Ryuhei',
     },
     {
-        name: 'LinkedIn',
-        iconUrl: linkedin,
-        link: '-',
+        name: 'Instagram',
+        iconUrl: Instagram,
+        link: 'https://www.Instagram.com/sptnnhdnta',
     }
 ];
 
 export const projects = [
     {
-        iconUrl: Blom ada Banh!,
+        iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/Yamada-Ryuhei',
+        name: 'Inventaris Sekolah',
+        description: 'Inventaris barang sekolah berbasis web adalah sistem manajemen yang memungkinkan sekolah atau lembaga pendidikan untuk melacak, mengelola, dan memantau inventaris barang mereka melalui platform online.',
+        link: 'soon',
     }
 ];
