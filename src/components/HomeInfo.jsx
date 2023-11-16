@@ -48,8 +48,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
       <p className='font-medium sm:text-xl text-center'>
-        Need a project done or looking for a dev? <br/> I'm just a few keystrokes away
-      </p>
+        Projek bukan sembarang projek<br/> Hasil gabut doang bejir  </p>
 
       <Link to='/contact' className='neo-brutalism-white neo-btn'>
         Let's talk
